@@ -1,0 +1,96 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "4b421e14-fd91-4622-be32-4630d43770d4",
+   "metadata": {},
+   "source": [
+    "# My Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0528d1f8-35f1-437c-9459-6697eb6140d7",
+   "metadata": {
+    "jp-MarkdownHeadingCollapsed": true,
+    "tags": []
+   },
+   "source": [
+    "**Dmitrii Lychev**\n",
+    "\n",
+    "Project manager"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "47805ba6-a7cc-4e03-8e94-0e4fb525a29c",
+   "metadata": {},
+   "source": [
+    "*I am interested in data science because I want to improve my analytical skills.*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b582719c-2707-4917-a5ba-5a8ceb7fc04d",
+   "metadata": {},
+   "source": [
+    "### My code below is doing simple math 2*2 ###"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "95789395-b527-4897-8eec-a5cf092caa49",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "2*2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0dfde331-4443-414c-b1bd-087c9aec411d",
+   "metadata": {},
+   "source": [
+    "1. Horizontal rule\n",
+    "---\n",
+    "2. Bulleted list\n",
+    "  * 1\n",
+    "  * 2\n",
+    "3. Numbered list\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
